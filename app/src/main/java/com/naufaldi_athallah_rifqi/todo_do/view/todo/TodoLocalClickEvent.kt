@@ -1,0 +1,17 @@
+package com.naufaldi_athallah_rifqi.todo_do.view.todo
+
+import com.naufaldi_athallah_rifqi.todo_do.data.models.local.TodoLocal
+
+interface TodoLocalClickEvent {
+
+    companion object {
+        // actions are used to make the callback method generic for all
+        const val ACTION_COMPLETE = "complete"
+        const val ACTION_DETAILS = "details"
+        const val ACTION_EDIT = "edit"
+        const val ACTION_DELETE = "delete"
+    }
+
+    fun onClickTodoLocal(todo: TodoLocal, action: String, position: Int)
+
+}
