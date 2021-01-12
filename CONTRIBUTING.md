@@ -12,12 +12,12 @@ Thanks for wanting to help out! These pointers below should help you fall into t
 
 
 - Create a branch
-    - Change to the repository directory on your computer (if you are not already there): ``` cd Awesome-Android-Open-Source-Projects```
+    - Change to the repository directory on your computer (if you are not already there): ``` cd todo-do-sourcecode```
     - Now create a branch using the git checkout command: ``` git checkout -b <add-your-new-branch-name> ```
 
 
 - Make neccesary changes
-    - Open README.md and add any new android related projects.
+    - Just add any new thing that you think should be added to this project 
     - Open CONTRIBUTORS.md and add your name and github link in the mentioned fashion : ```[your-github-username](your-github-url)```
 
 
