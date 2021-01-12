@@ -13,7 +13,7 @@ Feel free to create issues, or fork and pull request.
 - Sync data with google account so you can access your to-do list in any device as long as you log
 in using google account
 
-#Contributing
+# Contributing
 If you are looking to contribute to Todo-Do, first of all, thank you! Please
 see our [guidelines for contributing](CONTRIBUTING.md).
 
