@@ -1,1 +1,3 @@
-```naufaldirfq(https://github.com/naufaldirfq)```
+# Contributors
+
+[naufaldirfq](https://github.com/naufaldirfq)
