@@ -18,4 +18,4 @@ If you are looking to contribute to Todo-Do, first of all, thank you! Please
 see our [guidelines for contributing](CONTRIBUTING.md).
 
 # License
-For the license, see [License](LICENSE.md).
+For the license, see [License](LICENSE).
